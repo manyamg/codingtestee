@@ -1,0 +1,14 @@
+*.iml
+.idea/
+target/
+docs/_site
+.DS_Store
+*.log
+.gradle/
+build
+classes
+.classpath
+.project
+.settings
+out
+/bin/
